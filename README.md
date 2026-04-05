@@ -1,4 +1,3 @@
-# plant-disease-app-
 # 🌿 Plant Disease Detection App
 
 This is a Deep Learning based Plant Disease Detection system using ResNet50.
